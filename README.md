@@ -1,1 +1,1 @@
-Just visit olgkpln.github.io/whitelabel
+Just visit https://olgkpln.github.io/whitelabel/
